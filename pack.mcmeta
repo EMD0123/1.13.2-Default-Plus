@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 12,
+    "pack_format": 15,
     "version": "Pre-8",
     "supported_formats": {
-      "min_inclusive": 12,
+      "min_inclusive": 15,
       "max_inclusive": 32
     },
     "description": "The updated classic default look and feel of Minecraft"

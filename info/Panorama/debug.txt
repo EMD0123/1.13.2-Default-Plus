@@ -1,2 +1,0 @@
-Version: 20w48a
-Position: /tp @s -1 80 -1 -45 10
