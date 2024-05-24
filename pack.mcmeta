@@ -4,7 +4,7 @@
     "version": "Pre-8",
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 32
+      "max_inclusive": 34
     },
     "description": "The updated classic default look and feel of Minecraft"
   },
