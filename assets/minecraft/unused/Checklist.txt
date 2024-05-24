@@ -1,7 +1,0 @@
-Ravager Texture
-Cornflower color is wrong
-candles
-Lighning rod
-firework crossbow
-1.15 textures
-1.19.3 spawn eggs
