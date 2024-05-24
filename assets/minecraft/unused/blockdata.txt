@@ -1,0 +1,13 @@
+nether fungi is based off of birch
+colorise in GIMP for warped is 0 red 35 blue 35 green
+colorise in GIMP for crimson is 35 red 25 blue 15 green
+netherite clorize is 0 sat -0.8 lightness
+copper 703a29 -.4 lightness
+lush/moss old5f7030 8db34d
+grimstone 454545	deepslate is 454545 colorize
+water = acacac then add a contrast of 75
+stripped side = brightness/contrast -100 each, colorize to center wood top pixel .15 Lighness      add overlay
+stipped overlay = upper left ring pixel air right 50/50 strech to 8 delete 2 most left pixels
+bamboo dry = colorize c5b053 then brightness/contrast 32,16
+sus snad = 54290e marker 30%
+stripped log = manually map bark into 3-4 light colors from planks + [Overlay] add external overlay texture as layer in gimp + set layer mode to Burn + [Overlay2] darkest pixel 50% opacity onto corners 8x1 + strech to 16 + cover texture 

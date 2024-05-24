@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_mirrored",
+    "textures": {
+        "particle": "block/deepslate",
+        "down": "block/deepslate_top",
+        "up": "block/deepslate_top",
+        "north": "block/deepslate",
+        "east": "block/deepslate",
+        "south": "block/deepslate",
+        "west": "block/deepslate"
+    }
+}
