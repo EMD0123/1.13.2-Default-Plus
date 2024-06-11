@@ -16,6 +16,13 @@
           10000
         ],
         "directory": "overlay_1.20.3_bat"
+      },
+      {
+        "formats": [
+          33,
+          10000
+        ],
+        "directory": "overlay_1.21"
       }
     ]
   }
