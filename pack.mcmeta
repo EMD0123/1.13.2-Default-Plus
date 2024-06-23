@@ -12,6 +12,13 @@
     "entries": [
       {
         "formats": [
+          16,
+          10000
+        ],
+        "directory": "overlay_1.20.2"
+      },
+      {
+        "formats": [
           20,
           10000
         ],
