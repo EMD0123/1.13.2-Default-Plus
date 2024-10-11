@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/purple_bundle"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "filled": 1
+            },
+            "model": "item/purple_bundle_filled"
+        }
+    ]
+}
