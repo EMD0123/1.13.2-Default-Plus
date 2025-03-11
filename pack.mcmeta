@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": [15,54],
+    "supported_formats": [15,55],
     "description": "The updated classic default look and feel of Minecraft"
   },
   "overlays": {
