@@ -1,12 +1,16 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [15,64],
-    "description": "The updated classic default look and feel of Minecraft"
+    "min_format": 16,
+    "max_format": 65,
+    "description": "The updated classic default look and feel of Minecraft",
+    "pack_format": 16,
+    "supported_formats": [16,64]
   },
   "overlays": {
     "entries": [
       {
+        "min_format": 16,
+        "max_format": 10000,
         "formats": [
           16,
           10000
@@ -14,13 +18,17 @@
         "directory": "overlay_1.20.2"
       },
       {
+        "min_format": 20,
+        "max_format": 10000,
         "formats": [
           20,
           10000
         ],
-        "directory": "overlay_1.20.3_bat"
+        "directory": "overlay_1.20.3"
       },
       {
+        "min_format": 33,
+        "max_format": 10000,
         "formats": [
           33,
           10000
@@ -28,6 +36,8 @@
         "directory": "overlay_1.21"
       },
       {
+        "min_format": 35,
+        "max_format": 10000,
         "formats": [
           35,
           10000
@@ -35,6 +45,8 @@
         "directory": "overlay_1.21.2"
       },
       {
+        "min_format": 43,
+        "max_format": 10000,
         "formats": [
           43,
           10000
@@ -42,6 +54,8 @@
         "directory": "overlay_1.21.4"
       },
       {
+        "min_format": 50,
+        "max_format": 10000,
         "formats": [
           50,
           10000
@@ -49,6 +63,8 @@
         "directory": "overlay_1.21.5"
       },
       {
+        "min_format": 61,
+        "max_format": 10000,
         "formats": [
           61,
           10000
