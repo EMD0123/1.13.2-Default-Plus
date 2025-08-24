@@ -70,6 +70,15 @@
           10000
         ],
         "directory": "overlay_1.21.6"
+      },
+      {
+        "min_format": 65,
+        "max_format": 10000,
+        "formats": [
+          65,
+          10000
+        ],
+        "directory": "overlay_1.21.9"
       }
     ]
   }
