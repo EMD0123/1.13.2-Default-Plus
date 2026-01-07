@@ -1,10 +1,10 @@
 {
   "pack": {
     "min_format": 15,
-    "max_format": 75,
+    "max_format": 77,
     "description": "The updated classic default look and feel of Minecraft",
     "pack_format": 15,
-    "supported_formats": [15,75]
+    "supported_formats": [15,77]
   },
   "overlays": {
     "entries": [
@@ -88,6 +88,15 @@
           10000
         ],
         "directory": "overlay_1.21.11"
+      },
+      {
+        "min_format": 72,
+        "max_format": 10000,
+        "formats": [
+          72,
+          10000
+        ],
+        "directory": "overlay_26.1"
       }
     ]
   }
